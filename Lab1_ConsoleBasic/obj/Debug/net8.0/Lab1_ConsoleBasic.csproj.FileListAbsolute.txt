@@ -1,0 +1,14 @@
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\bin\Debug\net8.0\Lab1_ConsoleBasic.exe
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\bin\Debug\net8.0\Lab1_ConsoleBasic.deps.json
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\bin\Debug\net8.0\Lab1_ConsoleBasic.runtimeconfig.json
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\bin\Debug\net8.0\Lab1_ConsoleBasic.dll
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\bin\Debug\net8.0\Lab1_ConsoleBasic.pdb
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\obj\Debug\net8.0\Lab1_ConsoleBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\obj\Debug\net8.0\Lab1_ConsoleBasic.AssemblyInfoInputs.cache
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\obj\Debug\net8.0\Lab1_ConsoleBasic.AssemblyInfo.cs
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\obj\Debug\net8.0\Lab1_ConsoleBasic.csproj.CoreCompileInputs.cache
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\obj\Debug\net8.0\Lab1_ConsoleBasic.dll
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\obj\Debug\net8.0\refint\Lab1_ConsoleBasic.dll
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\obj\Debug\net8.0\Lab1_ConsoleBasic.pdb
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\obj\Debug\net8.0\Lab1_ConsoleBasic.genruntimeconfig.cache
+D:\lab.net\IT142_Lab1_DinhPhucPhat_20230814\Lab1_ConsoleBasic\obj\Debug\net8.0\ref\Lab1_ConsoleBasic.dll
