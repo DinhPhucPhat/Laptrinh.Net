@@ -1,0 +1,14 @@
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\bin\Debug\net9.0\IT142_Lab2.exe
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\bin\Debug\net9.0\IT142_Lab2.deps.json
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\bin\Debug\net9.0\IT142_Lab2.runtimeconfig.json
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\bin\Debug\net9.0\IT142_Lab2.dll
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\bin\Debug\net9.0\IT142_Lab2.pdb
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\obj\Debug\net9.0\IT142_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\obj\Debug\net9.0\IT142_Lab2.AssemblyInfoInputs.cache
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\obj\Debug\net9.0\IT142_Lab2.AssemblyInfo.cs
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\obj\Debug\net9.0\IT142_Lab2.csproj.CoreCompileInputs.cache
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\obj\Debug\net9.0\IT142_Lab2.dll
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\obj\Debug\net9.0\refint\IT142_Lab2.dll
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\obj\Debug\net9.0\IT142_Lab2.pdb
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\obj\Debug\net9.0\IT142_Lab2.genruntimeconfig.cache
+D:\lab.net\IT142_Lab2_DinhPhucPhat_20230814\IT142_Lab2\obj\Debug\net9.0\ref\IT142_Lab2.dll
