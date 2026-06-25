@@ -1,0 +1,14 @@
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\bin\Debug\net9.0\Lab3_OOP.exe
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\bin\Debug\net9.0\Lab3_OOP.deps.json
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\bin\Debug\net9.0\Lab3_OOP.runtimeconfig.json
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\bin\Debug\net9.0\Lab3_OOP.dll
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\bin\Debug\net9.0\Lab3_OOP.pdb
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\obj\Debug\net9.0\Lab3_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\obj\Debug\net9.0\Lab3_OOP.AssemblyInfoInputs.cache
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\obj\Debug\net9.0\Lab3_OOP.AssemblyInfo.cs
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\obj\Debug\net9.0\Lab3_OOP.csproj.CoreCompileInputs.cache
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\obj\Debug\net9.0\Lab3_OOP.dll
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\obj\Debug\net9.0\refint\Lab3_OOP.dll
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\obj\Debug\net9.0\Lab3_OOP.pdb
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\obj\Debug\net9.0\Lab3_OOP.genruntimeconfig.cache
+D:\lab.net\IT142_Lab3_DinhPhucPhat_20230814\Lab3_OOP\obj\Debug\net9.0\ref\Lab3_OOP.dll
